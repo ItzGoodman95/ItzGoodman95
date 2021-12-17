@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ItzGoodman95
+- 👀 I’m interested in music and marketing.
+- 🌱 I’m currently learning Java and Python.
+- 💞️ I’m looking to collaborate on music and marketing projects.
+- 📫 You can reach me at chris.goodman140@yahoo.com
